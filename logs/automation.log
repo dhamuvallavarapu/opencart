@@ -1,0 +1,12 @@
+2024-12-03 18:01:43 INFO  [main] TC001_AccountRegistrationPage:16 - Starting the TC001_AccountRegistrationPage..
+2024-12-03 18:01:43 INFO  [main] TC001_AccountRegistrationPage:23 - clicking on the account link..
+2024-12-03 18:01:44 INFO  [main] TC001_AccountRegistrationPage:25 - clicking on the register link..
+2024-12-03 18:01:44 INFO  [main] TC001_AccountRegistrationPage:28 - providing the customer details..
+2024-12-03 18:01:46 INFO  [main] TC001_AccountRegistrationPage:43 - validating expected message..
+2024-12-03 18:01:46 INFO  [main] TC001_AccountRegistrationPage:52 - Finished the TC001_AccountRegistrationPage..
+2024-12-03 18:04:44 INFO  [main] TC001_AccountRegistrationPage:16 - Starting the TC001_AccountRegistrationPage..
+2024-12-03 18:04:45 INFO  [main] TC001_AccountRegistrationPage:23 - clicking on the account link..
+2024-12-03 18:04:45 INFO  [main] TC001_AccountRegistrationPage:25 - clicking on the register link..
+2024-12-03 18:04:45 INFO  [main] TC001_AccountRegistrationPage:28 - providing the customer details..
+2024-12-03 18:04:47 INFO  [main] TC001_AccountRegistrationPage:43 - validating expected message..
+2024-12-03 18:04:47 INFO  [main] TC001_AccountRegistrationPage:52 - Finished the TC001_AccountRegistrationPage..
