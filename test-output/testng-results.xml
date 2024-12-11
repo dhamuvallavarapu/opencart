@@ -6,8 +6,8 @@
     <groups>
     </groups>
     <test started-at="2024-12-04T09:44:22 IST" name="Test" finished-at="2024-12-04T09:44:23 IST" duration-ms="1155">
-      <class name="testCases.TC001_AccountRegistrationPage">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationPage@e8df99a]" started-at="2024-12-04T09:44:22 IST" name="setup" finished-at="2024-12-04T09:44:23 IST" duration-ms="998" status="FAIL">
+      <class name="testCases.TC001AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001AccountRegistrationTest@e8df99a]" started-at="2024-12-04T09:44:22 IST" name="setup" finished-at="2024-12-04T09:44:23 IST" duration-ms="998" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -84,7 +84,7 @@ at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:531)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyAccountRegistration()[pri:0, instance:testCases.TC001_AccountRegistrationPage@e8df99a]" started-at="2024-12-04T09:44:23 IST" name="verifyAccountRegistration" finished-at="2024-12-04T09:44:23 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verifyAccountRegistration()[pri:0, instance:testCases.TC001AccountRegistrationTest@e8df99a]" started-at="2024-12-04T09:44:23 IST" name="verifyAccountRegistration" finished-at="2024-12-04T09:44:23 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
@@ -149,11 +149,11 @@ at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:531)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAccountRegistration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationPage@e8df99a]" started-at="2024-12-04T09:44:23 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1733285663870" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001AccountRegistrationTest@e8df99a]" started-at="2024-12-04T09:44:23 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1733285663870" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC001_AccountRegistrationPage -->
+      </class> <!-- testCases.TC001AccountRegistrationTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

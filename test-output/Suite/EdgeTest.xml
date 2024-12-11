@@ -82,7 +82,7 @@ at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:531)
   <testcase classname="testBase.BaseClass" name="@AfterClass tearDown" time="-1.733242691632E9">
     <skipped/>
   </testcase> <!-- @AfterClass tearDown -->
-  <testcase classname="testCases.TC001_AccountRegistrationPage" name="verifyAccountRegistration" time="0.0">
+  <testcase classname="testCases.TC001AccountRegistrationTest" name="verifyAccountRegistration" time="0.0">
     <skipped/>
   </testcase> <!-- verifyAccountRegistration -->
 </testsuite> <!-- EdgeTest -->

@@ -79,7 +79,7 @@ at java.base/java.lang.Thread.run(Thread.java:840)
   <testcase classname="testBase.BaseClass" name="@AfterClass tearDown" time="-1.733242692337E9">
     <skipped/>
   </testcase> <!-- @AfterClass tearDown -->
-  <testcase classname="testCases.TC001_AccountRegistrationPage" name="verifyAccountRegistration" time="0.0">
+  <testcase classname="testCases.TC001AccountRegistrationTest" name="verifyAccountRegistration" time="0.0">
     <skipped/>
   </testcase> <!-- verifyAccountRegistration -->
 </testsuite> <!-- ChromeTest -->
